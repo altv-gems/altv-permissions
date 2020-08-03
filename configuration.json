@@ -1,0 +1,16 @@
+{
+    "Enabled": true,
+    "Storage": {
+        "Type": "jsonFile",
+        "JsonFile": {
+            "Path": "permissions.json"
+        },
+        "Database": {
+            "Host": "localhost",
+            "User": "root",
+            "Password": "",
+            "DbName": "altv",
+            "TablePrefix": "permissions_"
+        }
+    }
+}
